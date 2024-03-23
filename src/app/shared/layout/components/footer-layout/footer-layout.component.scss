@@ -1,13 +1,13 @@
 .footer {
   display: flex;
   flex-direction: column;
-  height: 200px;
+  height: 220px;
   color: #fff;
   .top {
     display: flex;
     justify-content: space-around;
     background-color: #2b3344;
-    height: 70%;
+    height: 65%;
     padding: 1rem 1.4rem;
     .col {
       display: flex;
@@ -33,7 +33,7 @@
     }
   }
   .bottom {
-    height: 30%;
+    height: 35%;
     background-color: #212735;
     padding: 1rem 1.4rem;
 
